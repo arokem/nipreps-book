@@ -11,3 +11,7 @@
   - file: dmriprep/dmriprep
   - file: dmriprep/gradient_table
   - file: dmriprep/hmc
+  - sections:
+    - file: dmriprep/hmc-util
+    - file: dmriprep/hmc-interface
+    - file: dmriprep/hmc-workflow
