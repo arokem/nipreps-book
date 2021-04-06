@@ -101,7 +101,7 @@ git remote add upstream https://github.com/nipreps/dmriprep.git
 
 Keep your fork up to date with the upstream repository.
 
-```{code-cell} bash
+```
 git fetch upstream
 git checkout master
 git merge upstream/master
